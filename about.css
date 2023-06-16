@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    background:url(https://4.bp.blogspot.com/-PpBX4EyZmio/WXYDak6M_DI/AAAAAAAAlek/v6g-2wkVWJEk6HExaQdGHBrhuwZ_5JLrQCLcBGAs/s1600/Stanford%2BUniversity%2B3.jpg);
+  }
+  
+.college-info {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  .college-info {
+    margin-top: 20px;
+  }
+  
+  .college-info p {
+    margin: 5px 0;
+  }
+  
+  .college-info strong {
+    margin-right: 5px;
+  }
+  
+  .college-info img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+  }

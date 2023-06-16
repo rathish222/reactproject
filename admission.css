@@ -1,0 +1,37 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    background-repeat: no-repeat;
+    background-size:100%;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 0;
+  }
+  
+  .admission-info {
+    margin-top: 20px;
+  }
+  
+  .admission-info p {
+    margin: 5px 0;
+  }
+  
+  .admission-info strong {
+    margin-right: 5px;
+  }
+  .h2{
+    color: brown;
+  }
